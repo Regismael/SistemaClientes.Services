@@ -1,0 +1,12 @@
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\bin\Debug\net7.0\SistemaClientes.Services.DATA.deps.json
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\bin\Debug\net7.0\SistemaClientes.Services.DATA.dll
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\bin\Debug\net7.0\SistemaClientes.Services.DATA.pdb
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\obj\Debug\net7.0\SistemaClientes.Services.DATA.csproj.AssemblyReference.cache
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\obj\Debug\net7.0\SistemaClientes.Services.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\obj\Debug\net7.0\SistemaClientes.Services.DATA.AssemblyInfoInputs.cache
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\obj\Debug\net7.0\SistemaClientes.Services.DATA.AssemblyInfo.cs
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\obj\Debug\net7.0\SistemaClientes.Services.DATA.csproj.CoreCompileInputs.cache
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\obj\Debug\net7.0\SistemaClientes.Services.DATA.dll
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\obj\Debug\net7.0\refint\SistemaClientes.Services.DATA.dll
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\obj\Debug\net7.0\SistemaClientes.Services.DATA.pdb
+C:\aulascsharp\SistemaClientes.Services\SistemaClientes.Services.DATA\obj\Debug\net7.0\ref\SistemaClientes.Services.DATA.dll
